@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohesh-B
 - 👀 I’m interested in creating stuff that hypes me up
-- :) Competitive Programmer
+- :)  Competitive Programmer
 - 🌱 I’m currently learning NLP(sequence to sequence models) and c++;
 - 💞️ I’m looking to collaborate on projects that would help me understand the above concepts.
 - 📫 How to reach me :Gmail:moheshbaskar.23@gmail.com
